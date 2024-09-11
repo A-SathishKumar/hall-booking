@@ -10,7 +10,10 @@ This API allows users to manage room bookings for a hall. It includes endpoints 
   - [4. List All Customers with Booked Data](#4-list-all-customers-with-booked-data)
   - [5. List Customer Booking History](#5-list-customer-booking-history)
 
-
+### API URL: 
+```url
+https://hall-booking-o50t.onrender.com
+```
  
 
 ## Endpoints
